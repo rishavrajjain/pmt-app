@@ -23,6 +23,3 @@ Powered By MLOps
 ## Try it out
 [Demo Link - Click here](https://pmt-app.netlify.app/)
 
-## Created by 
-[Abhay R Patel](https://github.com/abhayrpatel10)
-[Rishav Raj Jain](https://github.com/rishavrajjain)
